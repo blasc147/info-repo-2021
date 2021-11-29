@@ -1,5 +1,4 @@
 print("hola mundo")
-print("cambio")
 
 print('Informatorio Comision 5')
 
