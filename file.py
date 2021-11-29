@@ -7,3 +7,6 @@ def multiplos(n):
 
 def suma(a, b):
 	return a+b
+
+def division(n1, n2):
+    return n1/n2
